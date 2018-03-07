@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">firstexemple</string>
+    <string name="title_activity_act_main">Carteira de Clientes</string>
+    <string name="title_activity_act_cad_cliente">Cliente</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_Endereco">Endereço:</string>
+    <string name="lbl_Email">Email:</string>
+    <string name="lbl_Telefone">Numero:</string>
+    <string name="title_menu_ok" />
+    <string name="title_menu_ok1">Ok</string>
+    <string name="title_menu_cancelar">Cancelar</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="message_campos_invalidos_brancos">Há campos invalidos ou em branco</string>
+    <string name="lblOk">OK</string>
+    <string name="lblErro">Erro</string>
+    <string name="lblConexao_sucessfull">Conexão feita com sucesso</string>
+</resources>
